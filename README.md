@@ -5,8 +5,8 @@
 
 |               |    Features    |               |
 | ------------- | -------------- | ------------- |
-| [Image Merger](https://github.com/xellanix/mastertools#full_moon-image-merger) | [Mouse Focus](https://github.com/xellanix/mastertools#waxing_crescent_moon-mouse-focus) | [Quick Rename](https://github.com/xellanix/mastertools#waxing_crescent_moon-quick-rename) |
-|               | [Smart Bar](https://github.com/xellanix/mastertools#waxing_crescent_moon-smart-bar) |  |
+| [Image Merger](https://github.com/xellanix/mastertools#sparkles-image-merger) | [Mouse Focus](https://github.com/xellanix/mastertools#new_moon-mouse-focus) | [Quick Rename](https://github.com/xellanix/mastertools#new_moon-quick-rename) |
+|               | [Smart Bar](https://github.com/xellanix/mastertools#new_moon-smart-bar) |  |
 
 ## Download and Install
 ### :exclamation: Requirements
@@ -20,15 +20,15 @@
 3. Select `MasterTools_v1.1.0.22164.exe` to start the download. 
 
 ## Available Features
-### :full_moon: Image Merger
+### :sparkles: Image Merger
 Merge multiple images from files or clipboard, including screenshots, into a new file.
 
 ## Upcoming Features
-### :waxing_crescent_moon: Mouse Focus
+### :new_moon: Mouse Focus
 Darken the screen area and focus on the mouse, so you can find it easily.
-### :waxing_crescent_moon: Quick Rename
+### :new_moon: Quick Rename
 Rename multiple files directly with the desired format, also it's fast.
-### :waxing_crescent_moon: Smart Bar
+### :new_moon: Smart Bar
 Bar with various functions that help you in finding what you want.
 
 ## Bugs and Errors
