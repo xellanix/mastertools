@@ -16,7 +16,7 @@
 - [Microsoft Visual C++ Redistributable](https://docs.microsoft.com/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022) installer.
 ### :arrow_down: Download From GitHub (EXE Installer)
 1. Navigate to the [Xellanix MasterTools GitHub releases page](https://github.com/xellanix/mastertools/releases/tag/v1.1.0.22164).
-2. Move to the bottom of the page and click on `Assets`.
+2. Move to the bottom of the page and click on `Assets` to display the available files.
 3. Select `MasterTools_v1.1.0.22164.exe` to start the download. 
 
 ## Available Features
