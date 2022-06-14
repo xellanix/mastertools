@@ -23,6 +23,7 @@
 ### :sparkles: Image Merger
 Merge multiple images from files or clipboard, including screenshots, into a new file.
 - `Add` multiple images from **file** and last item from **clipboard**.
+- `Drag-and-drop` **image** files are also supported.
 - `Compress` images to make the final file **lighter**.
 - `Stack` images by **horizontal** or **vertical** direction.
 - `Merge` all images into a new file in **.png**, **.jpeg**, or **.pdf** format.
@@ -30,10 +31,21 @@ Merge multiple images from files or clipboard, including screenshots, into a new
 ## Upcoming Features
 ### :new_moon: Mouse Focus
 Darken the screen area and focus on the mouse, so you can find it easily.
+- `Highlight` on mouse after a while **automatically**.
+- `Easy-to-understand` **interface**.
+- `Lightweight` and does not require large **resources**.
 ### :new_moon: Quick Rename
 Rename multiple files directly with the desired format, also it's fast.
+- `Rename` multiple selected **files** and **folders** at once.
+- `Fast` **recursive** mode on folders.
+- `Unique` naming **patterns** are available.
+- `Integrated` with Windows **File Explorer**.
+- `Drag-and-drop` **files** and **folders** are also supported.
 ### :new_moon: Smart Bar
 Bar with various functions that help you in finding what you want.
+- `Solve` math **calculation** quickly.
+- `Find` the desired **files** and **folders** easily.
+- `Open` the **application** easily and quickly.
 
 ## Bugs and Errors
 If you find any bugs and errors contained in this application, please submit your findings in the [`Issues`](https://github.com/xellanix/mastertools/issues) section of the Xellanix MasterTools GitHub. We really appreciate and thank you for every contribution you make in the context of developing and improving this application.
