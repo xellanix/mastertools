@@ -31,7 +31,7 @@ Merge multiple images from files or clipboard, including screenshots, into a new
 ## Upcoming Features
 ### :new_moon: Mouse Focus
 Darken the screen area and focus on the mouse, so you can find it easily.
-- `Highlight` on mouse after a while **automatically**.
+- `Highlight` on **mouse** after a while **automatically**.
 - `Easy-to-understand` **interface**.
 - `Lightweight` and does not require large **resources**.
 ### :new_moon: Quick Rename
