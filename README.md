@@ -22,6 +22,10 @@
 ## Available Features
 ### :sparkles: Image Merger
 Merge multiple images from files or clipboard, including screenshots, into a new file.
+- `Add` multiple images from **file** and last item from **clipboard**.
+- `Compress` images to make the final file **lighter**.
+- `Stack` images by **horizontal** or **vertical** direction.
+- `Merge` all images into a new file in **.png**, **.jpeg**, or **.pdf** format.
 
 ## Upcoming Features
 ### :new_moon: Mouse Focus
