@@ -13,7 +13,8 @@ body:
     attributes:
       label: Describe the feature
       description: Please enter a short, clear description of the feature.
-      placeholder: Merge multiple images from files or clipboard, including screenshots, into a new file.
+      placeholder: |
+        Example: Merge multiple images from files or clipboard, including screenshots, into a new file.
   - type: textarea
     validations:
       required: true
@@ -21,10 +22,9 @@ body:
       label: Main points of feature
       description: Please provide important points that are the purpose and use of the feature.
       placeholder: |
+        Example: 
         - Add multiple images from file and last item from clipboard.
-        - Drag-and-drop image files are also supported.
         - Compress images to make the final file lighter.
-        - Stack images by horizontal or vertical direction.
         - Merge all images into a new file in .png, .jpeg, or .pdf format.
   - type: textarea
     attributes:
