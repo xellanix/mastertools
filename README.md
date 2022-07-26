@@ -5,8 +5,8 @@
 
 |               |    Features    |               |
 | ------------- | -------------- | ------------- |
-| [Image Merger](https://github.com/xellanix/mastertools#sparkles-image-merger) | [Mouse Focus](https://github.com/xellanix/mastertools#new_moon-mouse-focus) | [Quick Rename](https://github.com/xellanix/mastertools#new_moon-quick-rename) |
-|               | [Smart Bar](https://github.com/xellanix/mastertools#new_moon-smart-bar) |  |
+| [Battery Manager](https://github.com/xellanix/mastertools#new_moon-battery-manager) | [Image Merger](https://github.com/xellanix/mastertools#sparkles-image-merger) | [Mouse Focus](https://github.com/xellanix/mastertools#new_moon-mouse-focus) |
+| [Quick Rename](https://github.com/xellanix/mastertools#new_moon-quick-rename) | [Smart Bar](https://github.com/xellanix/mastertools#new_moon-smart-bar) |  |
 
 ## Download and Install
 ### :exclamation: Requirements
@@ -29,6 +29,12 @@ Merge multiple images from files or clipboard, including screenshots, into a new
 - `Merge` all images into a new file in **.png**, **.jpeg**, or **.pdf** format.
 
 ## Upcoming Features
+### :new_moon: Battery Manager
+Manage your device's battery usage, also keep your battery always good and last longer.
+- `Help` you in maintaining **battery health**.
+- `Warn` to **charge** battery immediately.
+- `Show` **stop** charging message.
+
 ### :new_moon: Mouse Focus
 Darken the screen area and focus on the mouse, so you can find it easily.
 - `Highlight` on **mouse** after a while **automatically**.
