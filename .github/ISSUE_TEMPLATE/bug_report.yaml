@@ -45,7 +45,6 @@ body:
         - "Windows 10 (2004): Build 19041"
         - "Windows 10 (1909): Build 18363"
         - "Windows 10 (1903): Build 18362"
-        - "Windows 10 (1809): Build 17763"
   - type: textarea
     attributes:
       label: Additional context
