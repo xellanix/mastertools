@@ -19,10 +19,10 @@
 - [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48).
 - [Microsoft Edge WebView2 Runtime](https://go.microsoft.com/fwlink/p/?LinkId=2124703) bootstrapper.
 - [Microsoft Visual C++ Redistributable](https://docs.microsoft.com/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022) installer.
-### :arrow_down: Download From GitHub (EXE Installer)
-1. Navigate to the [Xellanix MasterTools GitHub releases page](https://github.com/xellanix/mastertools/releases/tag/v1.1.0.22164).
+### :arrow_down: Download From GitHub (MSI File)
+1. Navigate to the [Xellanix MasterTools GitHub releases page](https://github.com/xellanix/mastertools/releases/tag/v1.2.0.22205).
 2. Move to the bottom of the page and click on `Assets` to display the available files.
-3. Select `MasterTools_v1.1.0.22164.exe` to start the download. 
+3. Select `MasterTools_v1.2.0.22205.msi` to start the download. 
 
 ## Available Features
 ### :sparkles: Image Merger
