@@ -1,4 +1,5 @@
 # Xellanix MasterTools
+![Hero image for Xellanix MasterTools](Banner.png)
 
 ## About
 **Xellanix MasterTools** is an application with a set of unique and creative features, which was created with the aim of simplifying your daily activities on the Windows platform.
