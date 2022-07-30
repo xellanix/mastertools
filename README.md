@@ -25,6 +25,12 @@
 3. Select `MasterTools_v1.2.0.22205.msi` to start the download. 
 
 ## Available Features
+### :sparkles: Battery Manager
+Manage your device's battery usage, also keep your battery always good and last longer.
+- `Help` you in maintaining **battery health**.
+- `Warn` to **charge** battery immediately.
+- `Show` **stop** charging message.
+
 ### :sparkles: Image Merger
 Merge multiple images from files or clipboard, including screenshots, into a new file.
 - `Add` multiple images from **file** and last item from **clipboard**.
@@ -32,12 +38,6 @@ Merge multiple images from files or clipboard, including screenshots, into a new
 - `Compress` images to make the final file **lighter**.
 - `Stack` images by **horizontal** or **vertical** direction.
 - `Merge` all images into a new file in **.png**, **.jpeg**, or **.pdf** format.
-
-### :sparkles: Battery Manager
-Manage your device's battery usage, also keep your battery always good and last longer.
-- `Help` you in maintaining **battery health**.
-- `Warn` to **charge** battery immediately.
-- `Show` **stop** charging message.
 
 ### :sparkles: Mouse Focus
 Darken the screen area and focus on the mouse, so you can find it easily.
