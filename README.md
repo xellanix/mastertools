@@ -1,6 +1,10 @@
 # Xellanix MasterTools
 ![Hero image for Xellanix MasterTools](HeroImage.png)
 
+[![Windows version](https://badgen.net/badge/icon/windows%2011%20or%2010%20(v1903%20or%20newer)?icon=windows&label)](https://microsoft.com/windows/)
+[![Architecture](https://img.shields.io/badge/architecture-64bit-blue)]()
+[![GitHub release](https://img.shields.io/github/release/xellanix/mastertools.svg)](https://gitHub.com/xellanix/mastertools/releases/)
+
 ## About
 **Xellanix MasterTools** is an application with a set of unique and creative features, which was created with the aim of simplifying your daily activities on the Windows platform.
 
