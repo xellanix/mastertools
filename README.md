@@ -10,8 +10,8 @@
 
 |               |    Features    |               |
 | ------------- | -------------- | ------------- |
-| [Battery Manager](https://github.com/xellanix/mastertools#new_moon-battery-manager) | [Image Merger](https://github.com/xellanix/mastertools#sparkles-image-merger) | [Mouse Focus](https://github.com/xellanix/mastertools#new_moon-mouse-focus) |
-| [Quick Rename](https://github.com/xellanix/mastertools#new_moon-quick-rename) | [Smart Bar](https://github.com/xellanix/mastertools#new_moon-smart-bar) |  |
+| [Battery Manager](https://github.com/xellanix/mastertools#sparkles-battery-manager) | [Image Merger](https://github.com/xellanix/mastertools#sparkles-image-merger) | [Mouse Focus](https://github.com/xellanix/mastertools#sparkles-mouse-focus) |
+| [Quick Rename](https://github.com/xellanix/mastertools#sparkles-quick-rename) | [Smart Bar](https://github.com/xellanix/mastertools#new_moon-smart-bar) |  |
 
 ## Download and Install
 ### :exclamation: Requirements
@@ -33,25 +33,27 @@ Merge multiple images from files or clipboard, including screenshots, into a new
 - `Stack` images by **horizontal** or **vertical** direction.
 - `Merge` all images into a new file in **.png**, **.jpeg**, or **.pdf** format.
 
-## Upcoming Features
-### :new_moon: Battery Manager
+### :sparkles: Battery Manager
 Manage your device's battery usage, also keep your battery always good and last longer.
 - `Help` you in maintaining **battery health**.
 - `Warn` to **charge** battery immediately.
 - `Show` **stop** charging message.
 
-### :new_moon: Mouse Focus
+### :sparkles: Mouse Focus
 Darken the screen area and focus on the mouse, so you can find it easily.
 - `Highlight` on **mouse** after a while **automatically**.
 - `Easy-to-understand` **interface**.
 - `Lightweight` and does not require large **resources**.
-### :new_moon: Quick Rename
+
+### :sparkles: Quick Rename
 Rename multiple files directly with the desired format, also it's fast.
 - `Rename` multiple selected **files** and **folders** at once.
 - `Fast` **recursive** mode on folders.
 - `Unique` naming **patterns** are available.
 - `Integrated` with Windows **File Explorer**.
 - `Drag-and-drop` **files** and **folders** are also supported.
+
+## Upcoming Features
 ### :new_moon: Smart Bar
 Bar with various functions that help you in finding what you want.
 - `Solve` math **calculation** quickly.
