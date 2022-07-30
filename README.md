@@ -2,7 +2,7 @@
 ![Hero image for Xellanix MasterTools](HeroImage.png)
 
 [![Windows version](https://badgen.net/badge/icon/windows%2011%20or%2010%20(v1903%20or%20newer)?icon=windows&label)](https://microsoft.com/windows/)
-[![Architecture](https://img.shields.io/badge/architecture-64bit-blue)]()
+[![Platform](https://img.shields.io/badge/platform-64bit-blue)]()
 [![GitHub release](https://img.shields.io/github/release/xellanix/mastertools.svg)](https://gitHub.com/xellanix/mastertools/releases/)
 
 ## About
