@@ -32,7 +32,7 @@ Manage your device's battery usage, also keep your battery always good and last 
 - `Show` **stop** charging message.
 
 ### :sparkles: Image Merger
-Merge multiple images from files or clipboard, including screenshots, into a new file.
+Merge multiple images from files or clipboard, including screenshots, into a new file. [Official GitHub](https://github.com/xellanix/imagemerger)
 - `Add` multiple images from **file** and last item from **clipboard**.
 - `Drag-and-drop` **image** files are also supported.
 - `Compress` images to make the final file **lighter**.
